@@ -4,3 +4,9 @@
     padding: 20px;
     background-color: #7b6eb9;
 }
+#blog-image{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    align-items: center;
+}
